@@ -1,1 +1,31 @@
-something even more different
+<xml>
+    <some>
+        <stuff>bla</stuff>
+    </some>
+    
+    <with>
+        <more>stuff</more>
+    </with>
+    
+    <some>
+        <different>
+            uses
+        </different>
+    </some>
+    
+    <and>
+        <more>
+            calcs
+        </more>
+    </and>
+    
+    <independent>
+        <blocks>
+            <nested>
+                <deep>
+                    text
+                </deep>
+            </nested>
+        </blocks>
+    </independent>
+</xml>
