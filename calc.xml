@@ -7,16 +7,10 @@
         <more>stuff</more>
     </with>
     
-    <some>
-        <different>
-            uses
-        </different>
-    </some>
-    
     <and>
-        <more>
-            calcs
-        </more>
+        <or>
+            calc
+        </or>
     </and>
     
     <independent>
