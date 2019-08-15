@@ -23,7 +23,7 @@
         <blocks>
             <nested>
                 <deep>
-                    text
+                    <deeper>text</deeper>
                 </deep>
             </nested>
         </blocks>
