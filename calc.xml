@@ -7,6 +7,10 @@
         <more>stuff</more>
     </with>
     
+    <add>
+        some text
+    </add>
+    
     <and>
         <or>
             calc
